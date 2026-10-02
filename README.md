@@ -51,6 +51,8 @@ CRC_stemness_invasive_border_scrnaseq/
 ├── results/
 │   └── 10_Epithelial_DEGs_Border_vs_Core.csv
 └── README.md 
+
+
 Team & Contributions
 — Nada Qenawy - Lead Bioinformatician / Primary ContributorExecuted
 core scRNA-seq workflow: Data loading, Normalization, Feature Selection, Scaling, PCA, and UMAP Clustering.
@@ -59,7 +61,7 @@ Developed and executed the entire downstream analytics pipeline (02_downstream_a
 Generated all publication-ready visualizations (Figures 1–4, ISC Violin/UMAP plots, and Epithelial Border vs. Core Volcano Plot).
 Managed repository structure, code organization, and final technical documentation.
 
-Marwan — Repository Setup & QC
+Marwan Waleed — Repository Setup & QC
 Initialized the GitHub repository structure.
 Assisted with initial Quality Control (QC) parameters.
 
